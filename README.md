@@ -94,8 +94,6 @@ We tried to follow ideal Software Development Design Principles such as.
 
 <br />
 
-The presentation for Etherfunds can be found [here](https://www.canva.com/design/DAE3pEWUc1Y/Lrnk-dxztwBzIL4UkxrQvg/view#1).
-
 ### Block diagram
 
 - The block diagram shows the overview of the system.
