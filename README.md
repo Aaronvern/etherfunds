@@ -28,7 +28,10 @@
 
 
 
-https://user-images.githubusercontent.com/56788568/231786213-3be540b1-e84b-4c82-ab46-6a466af932d6.mp4
+## Demo Video
+
+[![Watch demo](./public/images/Screenshot%202024-05-26%20224135.png)](https://vimeo.com/950533023?share=copy)
+
 
 
 </p> 
