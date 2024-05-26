@@ -26,7 +26,11 @@
 
 <p align="center">
 
-
+### Team members:
+- Aaron vernekar
+- Ajin jose
+- Deepesh Genani
+- Tabish Khaqan
 
 ## Demo Video
 
