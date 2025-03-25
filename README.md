@@ -26,12 +26,6 @@
 
 <p align="center">
 
-### Team members:
-- Aaron vernekar
-- Ajin jose
-- Deepesh Genani
-- Tabish Khaqan
-
 ## Demo Video
 
 [![Watch demo](./public/images/Screenshot%202024-05-26%20224135.png)](https://vimeo.com/950533023?share=copy)
@@ -147,13 +141,3 @@ We tried to follow ideal Software Development Design Principles such as.
 ### License 📜
 
 [GNU General Public License v3.0](/LICENSE)
-
-### Authors
-- Ajin jose
-    - [github](https://github.com/Ajin-Jose)
-- Aaron vernekar
-    - [X](https://x.com/Aaronvern11) • [github](https://github.com/Aaronvern) 
-- Deepesh Genani
-    - [Linkedin](https://www.linkedin.com/in/deepeshgenani/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bf0gXgvYlRe2CnaIxMPnJTw%3D%3D) • [Github](https://github.com/ASCE-D)
-- Tabish Khaqan
-    - [github](https://github.com/Tabish1511) • [X](https://twitter.com/TabishKhaqan)
